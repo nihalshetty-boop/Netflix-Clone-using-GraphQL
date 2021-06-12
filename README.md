@@ -36,34 +36,6 @@ A simple **ReactJS** Netflix homepage clone running on *AstraDB* that leverages 
 > * You will also need Netlify and AstraDB accounts, but we'll work through that in the exercises
 > * Use **Chrome** or **Firefox** for the best experience. Other browsers are great, but don't work well with the GitPod integration we use a bit later.
 
-- *Do I need to pay for anything for this workshop?*
-> * **No.** All tools and services we provide here are FREE.
-
-- *Will I get a certificate if I attend this workshop?*
-
-> Attending the session is not enough. You need to complete the homeworks detailed below and you will get a nice badge.
-
-## Materials for the Session
-
-It doesn't matter if you join our workshop live or you prefer to do at your own pace, we have you covered. In this repository, you'll find everything you need for this workshop:
-
-- [Slide deck](./slides/slides.pdf)
-- [Discord chat](https://bit.ly/cassandra-workshop)
-- [Questions and Answers](https://community.datastax.com/)
-
-## Homework
-
-<img src="tutorial/images/netflix-badge.png?raw=true" width="200" align="right" />
-
-Don't forget to complete your upgrade and get your verified skill badge! Finish and submit your homework!
-
-1. Complete the practice steps from this repository as described below.
-2. Insert a movie of your choice in the database.
-3. Make screenshots alongside the steps and show us your deployed production Netflix clone up in Netlify.
-4. (Optional extra credit) Watch the 2 hour Ania video [HERE](#video-tutorial-with-ania-kubow), build the app yourself, and show us the completed app.
-5. Submit your homework [here](https://github.com/datastaxdevs/workshop-graphql-netflix/issues/new?assignees=HadesArchitect&labels=homework%2Cpending&template=homework-assignment.md&title=%5BHW%5D+%3CNAME%3E)
-
-That's it, you are done! Expect an email next week!
   
 # Let's start
 
